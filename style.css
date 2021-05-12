@@ -25,7 +25,7 @@ li img {
     border-radius: 20px;
     width: 50%;
     display: inline-block;
-    box-shadow: 10px 10px 18px white;
+    box-shadow: 5px 5px 18px white;
 }
 
 b {
@@ -41,8 +41,4 @@ b {
 
 body {
   background-color: silver;
-}
-
-h4 {
-  font-size: 15px;
 }
